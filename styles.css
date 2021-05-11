@@ -390,7 +390,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("Vishudh/images/picture2.jpeg");
+    url("/Vishudh/images/picture2.jpeg");
   background-size: cover;
   position: relative;
   color: #fff;
@@ -406,7 +406,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.9) 100%
     ),
-    url("Vishudh/images/picture3.jpeg");
+    url("/Vishudh/images/picture3.jpeg");
 }
 
 .services__card h2 {
