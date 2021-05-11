@@ -1,1 +1,3 @@
-# Vishudh
+---
+permalink: /index.html
+---
